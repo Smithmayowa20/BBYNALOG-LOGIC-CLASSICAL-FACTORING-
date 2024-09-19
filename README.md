@@ -32,3 +32,15 @@ S_1/2 is exactly the number of possible integer combinations of (x * y) that is 
 S_2 : Sum[K.E(M_1),{a,-v,v},{b,-v,v},...,{z,-v,v}]
 
 S2/2 is exactly the number of possible integer combinations of (a^n_1 + b^n_2 + .... + z^n) that is equal to (c + 1)
+
+
+
+
+Reformulation
+
+
+
+
+Riemann Hypothesis
+
+A number d is considered to be a prime number if the value of its S_1/2 expression above is 1
