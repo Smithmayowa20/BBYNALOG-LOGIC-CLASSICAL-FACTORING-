@@ -281,7 +281,7 @@ The time complexity [4], of the Alli-Smith Signal Factorization Method above is 
 
 
 
-I would like to thank the Lord Jesus Christ, and Adonai, Lord Our God, for helping me with the knowledge and guidance for this research paper. Without whom I could not even lift a pen to paper, thoughtless of forming and expressing my thoughts via words. Who has also protected me, my father, mother and siblings thus far from severe physical (ethnic) and spiritual attacks from the devil by the hands of people whom literally call themselves demons, and who chased me across 7 countries, The lord has seen to it that I am able to publish this astounding discovery which he himself revealed to me.
+I would like to thank, appreciate, revere, and worship Lord God Almighty, for helping me with the knowledge and guidance for this research paper. Without whom I could not even lift a pen to paper, thoughtless of forming and expressing my thoughts via words. Who has also protected me, my father, mother and siblings thus far from severe physical (ethnic) and spiritual attacks from the devil by the hands of people whom literally call themselves demons, and who chased me across 7 countries, The lord has seen to it that I am able to publish this astounding discovery which he himself revealed to me.
 
 
 
